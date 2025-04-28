@@ -1,21 +1,4 @@
 
-Built by https://www.blackbox.ai
-
----
-
-```markdown
-# Mobius Engine Website
-
-## Project Overview
-The **Mobius Engine Website** is a React-based web application designed to showcase and provide information about the Mobius Engine. It employs modern tooling, including Tailwind CSS for styling, to ensure a responsive user experience.
-
-## Installation
-To get started with the Mobius Engine Website, follow these steps.
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/mobiusengine-website.git
-   cd mobiusengine-website
    ```
 
 2. **Install dependencies**
